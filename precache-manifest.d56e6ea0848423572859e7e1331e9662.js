@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25dc90f4cccf30e107631bca70ae1344",
+    "revision": "5694e5b511632f1f1095190da27d7c1d",
     "url": "/tusharbeladiya/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tusharbeladiya/static/css/2.7b1f77b4.chunk.css"
   },
   {
-    "revision": "26dda5d3d0843c24bda1",
+    "revision": "a909d848169f5571ed7f",
     "url": "/tusharbeladiya/static/css/main.767143e1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tusharbeladiya/static/js/2.6ffca12a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26dda5d3d0843c24bda1",
-    "url": "/tusharbeladiya/static/js/main.95905223.chunk.js"
+    "revision": "a909d848169f5571ed7f",
+    "url": "/tusharbeladiya/static/js/main.47fb14fb.chunk.js"
   },
   {
     "revision": "65cbe13bc87646cc537c",
