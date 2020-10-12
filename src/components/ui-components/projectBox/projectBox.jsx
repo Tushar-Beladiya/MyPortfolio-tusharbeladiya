@@ -3,12 +3,15 @@ import React from "react";
 import "./projectBox.scss";
 
 const projectBox = (props) => {
-  const onPortfolioHandler = () => {
-    window.open("http://bhavindomadiya.ml/demo2Spandid/index.html", "_blank");
+  const onPortfolioHandler = (link) => {
+    window.open(link, "_blank");
   };
   return (
     <>
-      <div className="portfolio__box" onClick={onPortfolioHandler}>
+      <div
+        className="portfolio__box"
+        onClick={(e) => onPortfolioHandler(props.link)}
+      >
         <img src={props.preview} alt="project" />
         <div className="portfolio__hover-info flex-center">
           <div className="text-center">

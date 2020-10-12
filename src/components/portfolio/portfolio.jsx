@@ -132,6 +132,7 @@ class Portfolio extends React.Component {
           key={project.id}
           title={project.title}
           tag={project.tag}
+          link={project.link}
         />
       ));
     }

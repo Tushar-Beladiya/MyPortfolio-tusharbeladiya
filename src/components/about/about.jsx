@@ -12,7 +12,7 @@ import Person02 from "../../assets/about/person02.png";
 const about = () => (
   <div id="about">
     <div className="wrapper">
-      <Title title="ABOUT MYSELf." />
+      <Title title="ABOUT MYSELF" />
       <p className="font12">
         As a web designer and developer, I have constantly enjoyed working with
         clients to unravel how <br></br>they can make their brands shine and

@@ -107,7 +107,7 @@ class Contact extends React.Component {
       <div id="contact">
         {modalRender}
         <div className="wrapper">
-          <Title title="CONTACT US." />
+          <Title title="CONTACT US" />
           <p className="font12">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt<br></br>ut labore et dolore magna aliqua.
@@ -116,7 +116,7 @@ class Contact extends React.Component {
           <Row className="padding40">
             <Col md={12} lg={6}>
               <form id="contact-form" onSubmit={this.handleSubmit}>
-                <h4 className="font30 weight800 padding30">Send Us Message.</h4>
+                <h4 className="font30 weight800 padding30">Send Us Message</h4>
                 <input
                   type="text"
                   placeholder="Name"
